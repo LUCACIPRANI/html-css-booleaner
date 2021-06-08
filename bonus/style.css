@@ -1,0 +1,135 @@
+/* Background e logo  */
+body{
+    background-image: url("https://lh3.googleusercontent.com/proxy/vD4tdDO2x513bUlUueGy5VxRM8USknac3xrMBMvdRPA2oZgalKoZ2ygEJdnoD7-wkWuQE1T9IL2to7JoJpvovYEU8Bz20j-QBY_6J6Ait7zGkTVtZEuuCkCk");
+    background-size: cover;
+    background-color: rgba(red, green, blue, 0.5);
+    margin: 0 auto;
+}
+
+
+.Background{
+    background-image: url("https://us.123rf.com/450wm/kamaga/kamaga1711/kamaga171100027/89454645-folla-di-persone-che-camminano-e-shopping-citt%C3%A0-con-edifici-alti-in-background-.jpg?ver=6");
+    height: 150px;;
+    margin: 0 auto;
+    padding: 10px;;
+    width: 75%;
+    align-items: center;
+}
+
+#logo{
+    width: 30%;
+    margin-top: 4%;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+/* Fine Background e logo  */
+
+p{
+    color: white;
+}
+
+/* Inizio Main */
+
+main {
+    background-color: rgba(red, green, blue, 0.9);
+    height: 1100px;
+    width: 72%;
+    align-items: center;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 40px;
+    margin: 0 auto;
+    color: white;
+}
+#testo_blu{
+    color: #bce5f8;
+    font-weight: 650;
+    font-size: 18px;
+}
+
+#Grass_{
+    color:  white;
+    font-weight: 800;
+    font-size: 18px;
+}
+
+#Data{
+    color:  white;
+    font-weight: 800;
+    font-size: 12px;
+}
+
+.photo_description{
+    color: white;
+    font-size: 12px;
+    font-weight: 200;
+}
+ul {
+    color: white;
+}
+
+mark{
+    color: black;
+    font-weight: 800;
+}
+
+/* inizio tabella */
+table{
+    background-color: rgba(0,0,0, 0.4);
+}
+
+#first_row{
+    background-color: #0e475f;
+    color: white;
+}
+
+#second_row{
+    background-color: #0e475f;
+    color: white;
+    font-weight: 500;
+}
+
+#third_row{
+    background-color: #20AAE5;
+    color: white;
+    font-weight: 500;
+}
+
+#fourth_row{
+    background-color: #0e475f;
+    color: white;
+    font-weight: 500;
+}
+
+/* fine tabella */
+
+.Third_section p{
+    color: black;
+    font-weight: 600;
+}
+
+/* inizio footer  */
+
+footer{
+    background-color: rgba(red, green, blue, 0.1);
+    height: 500px;
+    margin: 0 auto;
+    width: 72%;
+    
+}
+
+h4{
+    color: white;
+    width: 20%;
+    font-weight: 800;
+    font-size: 20px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.immagini_footer{
+    width: 200px;
+    height: 133px;
+}
