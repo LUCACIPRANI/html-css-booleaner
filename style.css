@@ -1,3 +1,4 @@
+/* Background e logo  */
 body{
     background-color: black;
     margin: 0 auto;
@@ -6,7 +7,7 @@ body{
 .Background{
     background-image: url("img/pattern.png");
     height: 100px;
-    background-color: #3399ff;
+    background-color: #4ea0ff;
     margin: 0 auto;
     padding: 10px;;
     width: 75%;
@@ -16,5 +17,43 @@ body{
 #logo{
     width: 20%;
     margin-top: 4%;
-    
+}
+/* Fine Background e logo  */
+
+/* Inizio Main */
+
+main {
+    background-color: white;
+    height: 1000px;
+    width: 76.4%;
+    align-items: center;
+    margin: 0 auto;
+}
+
+h1{
+    font-size: 40px;
+    margin: 0 auto;
+}
+#testo_blu{
+    color: #73C9EF;
+    font-weight: 650;
+    font-size: 18px;
+}
+
+#Grass_{
+    color:  #878787;
+    font-weight: 520;
+    font-size: 18px;
+}
+
+#Data{
+    color:  #878787;
+    font-weight: 400;
+    font-size: 12px;
+}
+
+.photo_description{
+    color: black;
+    font-size: 12px;
+    font-weight: 200;
 }
