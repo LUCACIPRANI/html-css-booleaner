@@ -24,7 +24,7 @@ body{
 
 main {
     background-color: white;
-    height: 1000px;
+    height: 1050px;
     width: 76.4%;
     align-items: center;
     margin: 0 auto;
@@ -85,3 +85,28 @@ h1{
 
 /* fine tabella */
 
+.third_section{
+    color: black;
+    font-weight: 600;
+}
+
+/* inizio footer  */
+
+footer{
+    background-color: white;
+    height: 500px;
+    margin: 0 auto;
+    width: 76.4%;
+    
+}
+
+h4{
+    color: gray;
+    font-weight: 800;
+    margin: 0;
+}
+
+.immagini_footer{
+    width: 200px;
+    height: 133px;
+}
