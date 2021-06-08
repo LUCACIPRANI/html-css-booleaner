@@ -57,3 +57,31 @@ h1{
     font-size: 12px;
     font-weight: 200;
 }
+
+/* inizio tabella */
+
+#first_row{
+    background-color: #20AAE5;
+    color: white;
+}
+
+#second_row{
+    background-color: #B1E6F1;
+    color: black;
+    font-weight: 500;
+}
+
+#third_row{
+    background-color: white
+    color: black;
+    font-weight: 500;
+}
+
+#fourth_row{
+    background-color: #B1E6F1;
+    color: black;
+    font-weight: 500;
+}
+
+/* fine tabella */
+
